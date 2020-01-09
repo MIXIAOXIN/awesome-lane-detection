@@ -70,7 +70,7 @@ lane detection
 
 # 2017
 
-[A review of recent advances in lane detection and departure warning system](https://www.sciencedirect.com/science/article/pii/S0031320317303266)
+- [x] [A review of recent advances in lane detection and departure warning system](https://www.sciencedirect.com/science/article/pii/S0031320317303266)
 
 [Deep Learning Lane Marker Segmentation From Automatically Generated Labels](https://ieeexplore.ieee.org/document/7989163/) [Youtube](https://www.youtube.com/watch?v=AH01wpqqaeA)
 

@@ -42,7 +42,7 @@ lane detection
 
 [End to End Video Segmentation for Driving : Lane Detection For Autonomous Car](https://arxiv.org/abs/1812.05914)
 
-[3D-LaneNet: end-to-end 3D multiple lane detection](https://arxiv.org/abs/1811.10203)  ICCV 2019
+- [x] [3D-LaneNet: end-to-end 3D multiple lane detection](https://arxiv.org/abs/1811.10203)  ICCV 2019
 
 [Efficient Road Lane Marking Detection with Deep Learning](https://arxiv.org/abs/1809.03994) DSP 2018
 
@@ -52,13 +52,13 @@ lane detection
 
  [Real-time stereo vision-based lane detection system](https://arxiv.org/abs/1807.02752) 
 
- [LaneNet: Real-Time Lane Detection Networks for Autonomous Driving](https://arxiv.org/abs/1807.01726)
+- [x] [LaneNet: Real-Time Lane Detection Networks for Autonomous Driving](https://arxiv.org/abs/1807.01726)
 
  [EL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection](https://arxiv.org/abs/1806.05525)
 
  [Real-time Lane Marker Detection Using Template Matching with RGB-D Camera](https://arxiv.org/abs/1806.01621)
 
- [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+- [x] [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 
  [Lane Detection and Classification for Forward Collision Warning System Based on Stereo Vision](https://ieeexplore.ieee.org/document/8353455/)
 

@@ -16,7 +16,7 @@ lane detection
 # Paper
 
 ## 2019
-
+/-[]
 [Dynamic Approach for Lane Detection using Google Street View and CNN](<https://arxiv.org/abs/1909.00798>)  IEEE TENCON 2019
 
 [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  [github](https://github.com/cardwing/Codes-for-Lane-Detection)  ICCV 2019
